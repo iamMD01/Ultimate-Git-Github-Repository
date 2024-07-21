@@ -1,1 +1,2 @@
 here is the hero section of our website
+added footer
